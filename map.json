@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lunchdate"
+                 "value":"mplunchdate"
                 }],
          "type":"tilelayer",
          "visible":true,
