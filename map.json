@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kudobox.co\/"
+                 "value":"https:\/\/www.kudobox.co\/"
                 }],
          "type":"tilelayer",
          "visible":true,
