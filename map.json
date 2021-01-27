@@ -1265,11 +1265,11 @@
         {
          "columns":1,
          "firstgid":3973,
-         "image":"..\/..\/tilesets\/world-map-starterkit-master\/tiles_png\/community\/cert\/imgs\/misc\/05_sitzsack.png",
+         "image":"..\/..\/tilesets\/world-map-starterkit-master\/tiles_png\/community\/cert\/imgs\/misc\/40_Sitzsack_04.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
-         "name":"05_sitzsack",
+         "name":"40_Sitzsack_04",
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
