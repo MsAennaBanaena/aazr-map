@@ -97,7 +97,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"B\u00e4llebad"
+                 "value":"https:\/\/meet.jit.si\/mp_baellebad"
                 }],
          "type":"tilelayer",
          "visible":true,
