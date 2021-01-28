@@ -1293,13 +1293,13 @@
         {
          "columns":3,
          "firstgid":3960,
-         "image":"..\/..\/..\/Desktop\/Anna\/work.adventure\/MethodPark_Poster_ConsultingFilm.png",
+         "image":"tilesets\/MethodPark_Poster_ConsultingFilm.png",
          "imageheight":136,
          "imagewidth":96,
          "margin":0,
          "name":"MethodPark_Poster_ConsultingFilm",
          "spacing":0,
-         "tilecount":35,
+         "tilecount":12,
          "tileheight":32,
          "tilewidth":32
         }],
