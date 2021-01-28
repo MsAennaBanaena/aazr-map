@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.methodpark.de\/die-wunderbare-welt-der-consultants.html"
+                 "value":"https:\/\/www.youtube.com\/embed\/abCe5iQUpj4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -169,7 +169,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.methodpark.de\/abenteuer-aus-dem-nerdreich.html"
+                 "value":"https:\/\/www.youtube.com\/embed\/sc_7tT92uho"
                 }],
          "type":"tilelayer",
          "visible":true,
