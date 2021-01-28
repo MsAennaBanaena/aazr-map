@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=QkpbsM12Xm0"
+                 "value":"https:\/\/swe-camp.de\/impressionen\/"
                 }],
          "type":"tilelayer",
          "visible":true,
