@@ -421,7 +421,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.helmuts-imbiss.com\/"
+                 "value":"http:\/\/www.helmuts-imbiss.com\/speisekarte.html"
                 }],
          "type":"tilelayer",
          "visible":true,
