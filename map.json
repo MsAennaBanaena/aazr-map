@@ -574,7 +574,7 @@
                  "value":".\/mp3\/timbregirlelevator.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":148,
          "x":0,
          "y":0
